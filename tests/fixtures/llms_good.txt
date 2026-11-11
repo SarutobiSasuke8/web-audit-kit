@@ -1,0 +1,8 @@
+# Example Studio
+
+> Example Studio designs handmade widgets for small shops.
+
+## Pages
+
+- [Home](https://example.com/): what we do
+- [Pricing](https://example.com/pricing): plans and prices
